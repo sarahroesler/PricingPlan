@@ -160,13 +160,11 @@ body {
 }
 
 .pricing-plan {
-    border-bottom: 1px solid #e1e1ff;
-
+    border-bottom: 1px solid #e1f1ff;
 }
 
 .pricing-plan:last-child {
     border-bottom: none;
-
 }
 
 .pricing-img {
@@ -185,7 +183,7 @@ body {
     color: #016ff9;
 }
 
-.pricing-features-items {
+.pricing-features-item {
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 12px;
@@ -194,7 +192,7 @@ body {
     border-top: 1px solid #e1f1ff;
 }
 
-.pricing-features-items:last-child {
+.pricing-features-item:last-child {
     border-bottom: 1px solid #e1f1ff;
 }
 
@@ -231,6 +229,7 @@ body {
     background-color: #269aff;
     color: white;
 }
+
 
 @media (min-width: 900px) {
     .panel {
